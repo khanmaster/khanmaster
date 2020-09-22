@@ -1,6 +1,6 @@
 ## 👋 Hello! I am A.H. Shahrukh Khan Senior DevOps Engineer/Consultant and Trainer  
 
-### 🔭 I’m currently developing... DevOps Best Practices.
+### 🔭 I’m currently developing... DevOps Best Practices :books:.
 ![Medium](https://img.shields.io/badge/-Medium-E95420?style=flat&logo=Medium&logoColor=black)
 
  https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450
@@ -8,10 +8,12 @@
 ![Linkedin](https://img.shields.io/badge/-Linkedin-E95420?style=flat&logo=Linkedin&logoColor=white)
     
   https://www.linkedin.com/in/a-h-shahrukh-khan/
-### **Technical Skills and Experience**
-#### DevOps and Cloud Computing
+### ** Technical Skills and Experience **
+####  Thriving in DevOps and Cloud Computing
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![RedHat](https://img.shields.io/badge/-RedHat-E95420?style=flat&logo=RedHat&logoColor=white)
+
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=White)
@@ -47,3 +49,9 @@
 ![Microsoft powerpoint](https://img.shields.io/badge/-Microsoft%20PowerPoint-b9361a?style=flat&logo=microsoft%20powerpoint)
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
+
+[![Shahrukh's github stats](https://github-readme-stats.vercel.app/api?username=khanmaster)](https://github.com/khanmaster/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmaster)](https://github.com/khanmaster/github-readme-stats)
+![Visitor Count](https://profile-counter.glitch.me/khanmaster/count.svg)
+
