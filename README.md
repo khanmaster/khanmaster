@@ -5,10 +5,8 @@
 
  https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450
 
-![Connect-On](https://img.shields.io/badge/-Connect-FCC624?style=flat&logo=Connect&logoColor=black)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-E95420?style=flat&logo=Linkedin&logoColor=white)
-
- https://www.linkedin.com/in/a-h-shahrukh-khan/
+    https://www.linkedin.com/in/a-h-shahrukh-khan/
 ## **Technical Skills and Experience**
 ### DevOps and Cloud Computing
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
@@ -25,7 +23,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=yellow)
 ![Flask](https://img.shields.io/badge/-Flask-0d7963?style=flat&logo=flask&logoColor=white)
-![MVC](https://img.shields.io/badge/-Mvc-3776AB?style=flat&logo=Mvc&logoColor=yellow)
+![MVC](https://img.shields.io/badge/-MVC-3776AB?style=flat&logo=MVC&logoColor=yellow)
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=Ruby&logoColor=white)
 
@@ -39,7 +37,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=eed718)
 ![MYSQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![MSSQL](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat&logo=Microsoft%20SQL%20Server&logoColor=white)
 
 ![Microsoft Word](https://img.shields.io/badge/-Microsoft%20Word-164ead?style=flat&logo=microsoft%20word)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-026f39?style=flat&logo=microsoft%20excel)
