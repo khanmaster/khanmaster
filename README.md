@@ -1,14 +1,19 @@
 ## 👋 Hello! I am A.H. Shahrukh Khan Senior DevOps Engineer/Consultant and Trainer  
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/a-h-shahrukh-khan/)
+
 ### 🔭 I’m currently developing... DevOps Best Practices :books:.
 ![Medium](https://img.shields.io/badge/-Medium-E95420?style=flat&logo=Medium&logoColor=black)
 
- https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
+ 
 
-![Linkedin](https://img.shields.io/badge/-Linkedin-E95420?style=flat&logo=Linkedin&logoColor=white)
+
+[![Shahrukh' github stats](https://github-readme-stats.vercel.app/api?username=khanmaster&show_icons=true&theme=synthwave)](https://github.com/naistangz/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmaster&hide=TeX&layout=compact)
     
-  https://www.linkedin.com/in/a-h-shahrukh-khan/
-### ** Technical Skills and Experience **
+ ### ** Technical Skills and Experience **
 ####  *** Thriving in DevOps and Cloud Computing ***
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
