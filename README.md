@@ -10,7 +10,7 @@
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 
 **Read The Articale** 
-[Medium](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
+[Read The Articale on Medium](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
 
 [![Shahrukh' github stats](https://github-readme-stats.vercel.app/api?username=khanmaster&show_icons=true&theme=synthwave)](https://github.com/naistangz/github-readme-stats)
   
