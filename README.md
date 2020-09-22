@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
 
-**Visit** 
+**Read The Articale** 
 [Medium](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
 
 [![Shahrukh' github stats](https://github-readme-stats.vercel.app/api?username=khanmaster&show_icons=true&theme=synthwave)](https://github.com/naistangz/github-readme-stats)
