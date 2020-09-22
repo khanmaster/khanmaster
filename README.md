@@ -9,10 +9,12 @@
     
   https://www.linkedin.com/in/a-h-shahrukh-khan/
 ### ** Technical Skills and Experience **
-####  Thriving in DevOps and Cloud Computing
+####  *** Thriving in DevOps and Cloud Computing ***
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 ![RedHat](https://img.shields.io/badge/-RedHat-E95420?style=flat&logo=RedHat&logoColor=white)
+![CentOS](https://img.shields.io/badge/-CentOS-FCC624?style=flat&logo=CentOS&logoColor=black)
+![Microsoft Windows 10](https://img.shields.io/badge/-Microsoft%20Windows-6264A7?style=flat&logo=Microsoft%20Windows&logoColor=microsoft-windows)
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-2496ED?style=flat&logo=Kubernetes&logoColor=white)
