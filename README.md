@@ -2,9 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/a-h-shahrukh-khan/)
 
-### 🔭 I’m currently developing... DevOps Best Practices :books:.
-![Medium](https://img.shields.io/badge/-Medium-E95420?style=flat&logo=Medium&logoColor=black)
+### 🔭 Currently Developing... DevOps Best Practices.
 
+- 📖 **Recent Artical on Amazing DevOps Practices and CI/CD Pipeline with:**
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white)
+
+**CLICK:** 
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450)
  
 
@@ -13,8 +18,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmaster&hide=TeX&layout=compact)
     
- ### ** Technical Skills and Experience **
-####  *** Thriving in DevOps and Cloud Computing ***
+ ### **Technical Skills and Experience**
+####  **Thriving in DevOps and Cloud Computing**
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 ![RedHat](https://img.shields.io/badge/-RedHat-E95420?style=flat&logo=RedHat&logoColor=white)
@@ -57,8 +62,6 @@
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
-[![Shahrukh's github stats](https://github-readme-stats.vercel.app/api?username=khanmaster)](https://github.com/khanmaster/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khanmaster)](https://github.com/khanmaster/github-readme-stats)
 ![Visitor Count](https://profile-counter.glitch.me/khanmaster/count.svg)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=khanmaster)
 
