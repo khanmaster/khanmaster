@@ -6,9 +6,10 @@
  https://medium.com/@ahshahkhan/devops-culture-and-cicd-3761cfc62450
 
 ![Linkedin](https://img.shields.io/badge/-Linkedin-E95420?style=flat&logo=Linkedin&logoColor=white)
-    https://www.linkedin.com/in/a-h-shahrukh-khan/
-## **Technical Skills and Experience**
-### DevOps and Cloud Computing
+    
+  https://www.linkedin.com/in/a-h-shahrukh-khan/
+### **Technical Skills and Experience**
+#### DevOps and Cloud Computing
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white)
