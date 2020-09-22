@@ -1,4 +1,4 @@
-## 👋 Hello and Welcome to the World DevOps!!!  
+## 👋 Hello and Welcome to the World of DevOps!!!  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/a-h-shahrukh-khan/)
 
