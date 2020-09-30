@@ -1,8 +1,8 @@
-## 👋 Hello and Welcome to the World of DevOps!!!  
+## Hello and Welcome to the World of DevOps!!!  
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/a-h-shahrukh-khan/)
 
-### 🔭 Currently Developing... DevOps Best Practices.
+### Currently Developing... DevOps Best Practices.
 
 **Recent Artical on Amazing DevOps Practices and CI/CD Pipeline with:**
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white)
